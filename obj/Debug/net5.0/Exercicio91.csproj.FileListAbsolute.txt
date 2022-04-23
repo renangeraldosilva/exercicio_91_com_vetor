@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.runtimeconfig.dev.json
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.dll
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\bin\Debug\net5.0\Exercicio91.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.dll
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\refint\Exercicio91.dll
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\Exercicio91.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Exercicio91\obj\Debug\net5.0\ref\Exercicio91.dll
